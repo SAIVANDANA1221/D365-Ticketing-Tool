@@ -25,7 +25,7 @@ A complete Ticket Management System built using Microsoft Power Apps, Dataverse,
 - Microsoft Dataverse
 - Power Automate
 - Excel Online
-- SharePoint / OneDrive
+- OneDrive
 - Power Fx
 
 ## Functionalities
