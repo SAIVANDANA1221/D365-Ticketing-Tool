@@ -1,9 +1,5 @@
-
----
-
 # README.md
 
-:::writing{variant="document" id="58417"}
 # PowerApps Ticketing System
 
 A complete Ticket Management System built using Microsoft Power Apps, Dataverse, and Power Automate.
@@ -70,9 +66,6 @@ Power Automate flows are used for:
 - Excel export
 - Workflow automation
 
-## Screenshots
-
-(Add your application screenshots here)
 
 ## Future Improvements
 
@@ -85,4 +78,3 @@ Power Automate flows are used for:
 ## Author
 
 Developed by Sai Vandana
-:::
